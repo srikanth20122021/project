@@ -1,0 +1,8 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="project.controller.View1" displayBlock="true">
+    <Page id="page" title="{i18n>title}">
+        <content>
+            <TextArea xmlns="sap.m" value="Enter Inputs" rows="4" id="area0"/>
+            <Button xmlns="sap.m" text="Enter Data and Clik Hear" id="button0"/>
+        </content>
+    </Page>
+</mvc:View>
